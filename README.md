@@ -11,3 +11,5 @@ Steps to run the application:
 2. run the query from database.sql
 3. Open terminal and run 'npm run server'
 4. Open a new terminal and run 'npm run client'
+
+Make sure you have node 8+ installed. For the database management I recommend using PgAdmin 3/4.
